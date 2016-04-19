@@ -50,3 +50,23 @@ https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=ti
 https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=milwaukee%20time%20zone%20offset&oq=milwaukee%20time%20zone%20offset&aqs=chrome..69i57.5526j0j8
 http://www.mkyong.com/jquery/jquery-hello-world/
 
+https://ide.c9.io/koreahaos/hello_js_countdown_timer#openfile-README.md
+https://sourceforge.net/projects/portableapps/?source=typ_redirect
+https://www.join.me/
+http://stackoverflow.com/questions/9335140/how-to-countdown-to-a-date
+http://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
+http://www.w3schools.com/html/html_formatting.asp
+http://www.w3schools.com/tags/att_script_src.asp
+https://www.google.com/search?espv=2&q=javascript+find+all+html+pages+in+folder&oq=javascript+find+all+html+pages+in+folder&gs_l=serp.3...47828.49047.0.49710.5.5.0.0.0.0.128.449.1j3.4.0....0...1c.1.64.serp..1.3.351.BiiMPXmbZe0
+http://stackoverflow.com/questions/18480550/how-to-load-all-the-images-from-one-of-my-folder-into-my-web-page-using-jquery
+http://stackoverflow.com/questions/7022058/javascript-read-files-in-folder
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=javascript%20list%20files%20in%20directory%20on%20server&oq=javascript%20list%20files%20in%20directory%20on%20server&aqs=chrome.0.0l3.24086j0j4
+http://stackoverflow.com/questions/9057931/javascript-to-list-all-files-in-directory-on-the-webserver
+http://stackoverflow.com/questions/30622369/easiest-way-to-get-list-of-files-in-the-server-directory
+http://jquery.com/download/
+https://code.jquery.com/jquery-2.2.3.min.js
+https://www.google.com/search?q=hello+world&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjbgviTkJrMAhULjpQKHZZgBeIQ_AUICigE&biw=1550&bih=899#imgrc=nSHQ9jV8TAk1oM%3A
+https://myavantiservices.files.wordpress.com/2015/02/helloworld.gif
+http://www.w3schools.com/html/html_links.asp
+https://www.google.com/search?espv=2&q=javascript+remove+file+extension+from+string&oq=javascript+remove+file+extension+from+string&gs_l=serp.3...5963.6702.0.6905.7.7.0.0.0.0.290.636.0j1j2.3.0....0...1c.1.64.serp..7.0.0.IEFKBcqy-9E
+http://stackoverflow.com/questions/4250364/how-to-trim-a-file-extension-from-a-string-in-javascript
