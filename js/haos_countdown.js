@@ -56,14 +56,14 @@ function CountDownTimer(date_and_time_of_deadline, id) {
         document.getElementById(id).innerHTML += '';
 
         // Finally, get to writing it...
-        document.getElementById(id).innerHTML += '<b>FUCK ME!!</b><br> In : ';
+        document.getElementById(id).innerHTML += '<b>CAPSTONE TIME!!</b><br> In : ';
 
         document.getElementById(id).innerHTML += '<b>' + days + '</b> days, ';
         document.getElementById(id).innerHTML += '<b>' + hours + '</b> hours, ';
         document.getElementById(id).innerHTML += '<b>' + minutes + '</b> minutes, ';
         document.getElementById(id).innerHTML += '<b>' + seconds + '</b> secs; ';
 
-        document.getElementById(id).innerHTML += '<br> <b>My Shit Show Starts!!</b>';
+        document.getElementById(id).innerHTML += '<br> <b>i PRESENT MY CAPSTONE!!</b>';
     }
 
     // Update every second.
@@ -72,7 +72,7 @@ function CountDownTimer(date_and_time_of_deadline, id) {
 
 //CountDownTimer('02/19/2017 10:1 AM', 'countdown');
 
-CountDownTimer('04/19/2016 2:00 AM CDT', 'countdown');
+CountDownTimer('04/28/2016 10:00 AM CDT', 'countdown');
 
 //Sun Feb 19 2017 10:01:00 GMT+0900
 ShowCurrentTime();
