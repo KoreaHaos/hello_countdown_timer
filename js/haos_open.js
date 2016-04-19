@@ -10,6 +10,7 @@ function run_ajax_open_haos_thingy(folder_location, regex_string) {
     $.ajax({
         url: folder_location,
         success: function(data) {
+            console.log("data = " + data);
             $(data).find("a").attr("href", function(i, val) {
                 if (val.match(regex_string)) {
                     $("body").append("<a href='" + folder_location + val + "'>" + val.replace(/\.[^/.]+$/, "") + "</a></br>");
