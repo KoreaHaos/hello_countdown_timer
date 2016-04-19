@@ -1,0 +1,52 @@
+created : 4/19/16
+
+impetus : I wanted to create a countdown timer so i could quickly tell how much time i had until capstone presentation date.
+
+result : Timer created, now i needed a "landing" for it. This is getting tedious i thought. There must be a better way. Enter Ajax via JQuery!
+
+Status : Time to start tracking it with git and see if GitHub, JQuery, and Ajax get along...
+
+sources :
+
+[browser-dumps]
+
+https://hello-js-countdown-timer-koreahaos.c9users.io/index.html
+https://hello-js-countdown-timer-koreahaos.c9users.io/index2.html
+https://hello-js-countdown-timer-koreahaos.c9users.io/img/helloworld.gif
+https://www.google.com/search?espv=2&biw=1262&bih=500&q=javascript+ajax+hello+world&oq=javascript+ajax+hello+world&gs_l=serp.3..0i22i30.13921.15371.0.15795.11.7.0.4.4.0.214.557.0j3j1.4.0....0...1c.1.64.serp..4.7.350.LZNqXNKqIzk
+http://www.dynamicajax.com/fr/ajax_hello_world-271_290_322.html
+http://www.sitepoint.com/ajax-jquery/
+http://www.codeproject.com/Articles/19511/Writing-Your-First-AJAX-Application-For-Beginners
+http://www.w3schools.com/ajax/
+http://www.w3schools.com/ajax/tryit.asp?filename=tryajax_first
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=javascript%20arrays&oq=javascript%20arrays&aqs=chrome..69i57j0l5.4271j0j8
+http://www.w3schools.com/js/js_arrays.asp
+http://stackoverflow.com/questions/3010840/loop-through-array-in-javascript
+http://stackoverflow.com/questions/966225/how-can-i-create-a-two-dimensional-array-in-javascript
+http://stackoverflow.com/questions/494035/how-do-you-pass-a-variable-to-a-regular-expression-javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=ajax%20url%20success%20function&oq=ajax%20url%20success%20function&aqs=chrome..69i57j0l5.18823j0j8
+http://stackoverflow.com/questions/22892706/ajax-success-function
+http://www.w3schools.com/jquery/ajax_ajax.asp
+http://www.sitepoint.com/use-jquerys-ajax-function/
+
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=javascript%20date&oq=javascript%20Date&aqs=chrome.0.0l6.5983j0j8
+https://www.google.com/search?espv=2&q=javascript+date+deal+with+offeset&oq=javascript+date+deal+with+offeset&gs_l=serp.3..33i21.1541.4396.0.4553.18.12.0.0.0.0.261.1205.0j5j2.7.0....0...1c.1.64.serp..11.2.292.4O1PrjJqcpk
+https://www.google.com/search?espv=2&q=javascript+date+create+new+date+with+time+zone&oq=javascript+date+create+new+date+with+time+zone&gs_l=serp.3..33i21.4110.10833.0.11032.30.28.0.0.0.0.290.3752.0j16j7.23.0....0...1c.1.64.serp..7.23.3748.gkIzlkf5wJ8
+http://stackoverflow.com/questions/20834411/specify-timezone-in-javascript
+http://stackoverflow.com/questions/439630/how-do-you-create-a-javascript-date-object-with-a-set-timezone-without-using-a-s
+http://www.w3schools.com/js/js_dates.asp
+http://www.w3schools.com/js/exercise.asp?filename=exercise_dates3
+http://www.w3schools.com/js/tryit.asp?filename=tryjs_date_toutcstring
+http://www.techrepublic.com/article/convert-the-local-time-to-another-time-zone-with-this-javascript/
+https://nulogy.com/who-we-are/company-blog/articles/dealing-with-timezones-in-javascript/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getTimezoneOffset
+http://stackoverflow.com/questions/14134396/calculating-javascript-date-time-with-offset
+http://www.w3schools.com/jsref/jsref_constructor_date.asp
+http://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_constructor_date
+https://www.google.com/search?q=javascript+pass+in+time+zone+to+date&espv=2&ei=rtAVV5XMKeTMmAXj_Y6wCw&start=10&sa=N&biw=1180&bih=500
+
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=time%20in%20milwaukee&oq=time%20in%20milwaukee&aqs=chrome..69i57j0l5.5155j0j8
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=milwaukee%20time%20zone%20offset&oq=milwaukee%20time%20zone%20offset&aqs=chrome..69i57.5526j0j8
+http://www.mkyong.com/jquery/jquery-hello-world/
+
