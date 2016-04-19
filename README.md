@@ -1,3 +1,1 @@
-# A basic JQuery/Ajax example!
-
-(in progress!)
+# My First Count Down Timer!
