@@ -1,3 +1,14 @@
+/*
+
+This script works on Cloud9 but not on GitHub pages because of the way github pages serves content.
+
+Boo!
+
+*/
+
+
+
+
 function run_haos_open_house(array_of_directories_to_offer) {
     for (var i = 0; i < array_of_directories_to_offer.length; i++) {
         console.log("array_of_directories_to_offer[" + i + "][0] = " + array_of_directories_to_offer[i][0]);
@@ -20,8 +31,8 @@ function run_ajax_open_haos_thingy(folder_location, regex_string) {
     });
 }
 
-var image_folder = "img/"
-var pages_folder = "pgs/"
+var image_folder = "/img/"
+var pages_folder = "/pgs/"
 
 var image_regex = new RegExp(".(jpe?g|png|gif)");
 var pages_regex = new RegExp(".(html)")
