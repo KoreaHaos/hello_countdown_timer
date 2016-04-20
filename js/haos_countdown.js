@@ -61,7 +61,7 @@ function CountDownTimer(date_and_time_of_deadline, id) {
         document.getElementById(id).innerHTML += '<b>' + hours + '</b> hours, ';
         document.getElementById(id).innerHTML += '<b>' + minutes + '</b> minutes, ';
         document.getElementById(id).innerHTML += '<b>' + seconds + '</b> secs; ';
-        document.getElementById(id).innerHTML += '</br> <b>i PRESENT MY CAPSTONE!!</b>';
+        document.getElementById(id).innerHTML += '</br> <b>I PRESENT MY CAPSTONE!!</b>';
         document.getElementById(id).innerHTML += '</br>';
     }
 
