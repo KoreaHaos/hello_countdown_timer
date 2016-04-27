@@ -74,7 +74,7 @@ function CountDownTimer(date_and_time_of_deadline, id) {
 //CountDownTimer('02/19/2017 10:1 AM', 'countdown');
 
 CountDownTimer('04/28/2016 10:00 AM CDT', 'countdown1');
-CountDownTimer('04/20/2016 7:00 PM CDT', 'countdown2');
+//CountDownTimer('04/20/2016 7:00 PM CDT', 'countdown2');
 
 //Sun Feb 19 2017 10:01:00 GMT+0900
 ShowCurrentTime();
